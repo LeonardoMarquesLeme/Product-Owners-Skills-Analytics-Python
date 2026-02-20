@@ -59,3 +59,9 @@ A análise considera apenas colaboradores com cargo de Product Owner, excluindo 
   - Uso de Dados  
 
 Os resultados indicam necessidade de desenvolvimento estruturado e priorização de treinamentos estratégicos.
+
+---
+
+## 🎮 Contato
+
+Caso tenha dúvidas ou sugestões, entre em contato pelo Linkedin.
